@@ -1,0 +1,23 @@
+@import url(~/App.css);
+
+.navbar {
+    padding: 18px 29px;
+    background-color: var(--primary-color);
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+.btn {
+    background-color: white;
+
+}
+
+.dropdown-menu {
+    min-width: fit-content;
+}
+
+.btn:hover,
+.btn:active {
+    background-color: white;
+}
